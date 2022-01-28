@@ -1,9 +1,6 @@
-![Welcome Banner](banner.gif)
+<img align="left" height="270px">
 
-
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
-
-<h3> :woman: &nbsp;About Me </h3>
+<h3> 👦: &nbsp;About Me </h3>
 
 - 😄 Pronouns:KRUNAL TIMBADIYA 
 - 🔭 I’m currently : student
@@ -51,8 +48,8 @@
 <a href="https://www.linkedin.com/in/krunal-timbadiya-b95106230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/KrunalTimbadiy3?t=zIFhZvHnaV-96MtJnyYRkQ&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UC0Pn7d9T4JCQQNinquYpEsA/about/"><img src="https://img.shields.io/badge/youtube-12100E?style=for-the-youtube&logo=youtube&logoColor=white" alt="youtube" /></a>&nbsp;
-<a href="krunaltimbadiya2001@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+<a href="krunaltimbadiya2001@gmail.com"subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
 </p>
 
 
@@ -60,14 +57,11 @@
 <br/> 
 <p>
 
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
+  
+<img align="center" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 <br/>
 
-<p>
-    <img align="center" alt="visitors" src="1.5k"/>
-</p>
 
